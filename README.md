@@ -25,10 +25,9 @@ SPA built in Typescript with a Fastify backend and SQLite3 database.
 
 
 ## Usage
+*Run with .env file populated following .env.example*
 ```bash
     git clone https://github.com/lorene-k/ft_transcendance.git
     cd ft_transcendance
     make
 ```
-
-*(Project won't run without .env file)*
