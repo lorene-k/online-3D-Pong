@@ -1,5 +1,6 @@
 # ft_transcendance
 A full-stack web application with an online Pong game.
+
 SPA built in Typescript with a Fastify backend and SQLite3 database.
 
 ## Features
