@@ -1,4 +1,4 @@
-# ft_transcendance
+# Online 3D Pong Game
 
 A full-stack web application with an online Pong game.
 
